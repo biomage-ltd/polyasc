@@ -1,0 +1,1 @@
+samtools calmd 5k_pbmc_protein_v3_possorted_genome_bam.bam semi_good_hg38.fna > 5k_pbmc_protein_v3_calmd.sam
